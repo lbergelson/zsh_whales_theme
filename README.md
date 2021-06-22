@@ -5,4 +5,5 @@
 - return status whale
 - directory indicator
 - current git branch
+- active java version
 
